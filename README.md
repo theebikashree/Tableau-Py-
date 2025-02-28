@@ -1,0 +1,1 @@
+This project aims to analyze the financial performance and key characteristics of the Harry Potter movie series using Tableau and Python (Pandas). The goal is to derive insights into trends over time, budget allocation, and revenue generation. The Harry Potter franchise was a financial success, with increasing production budgets leading to higher revenue returns.
